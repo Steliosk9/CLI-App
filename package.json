@@ -1,0 +1,25 @@
+{
+  "name": "cli-app",
+  "version": "1.0.0",
+  "description": "cli-app",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steliosk9/CLI-App.git"
+  },
+  "author": "Stelios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steliosk9/CLI-App/issues"
+  },
+  "homepage": "https://github.com/Steliosk9/CLI-App#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
