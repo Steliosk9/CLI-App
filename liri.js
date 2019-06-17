@@ -1,43 +1,43 @@
 require("dotenv").config();
 
+// VARS
+var fs = require("fs");
 var keys = require("./keys.js");
+var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 var axios = require("axios");
-
-
-var fs = require("fs");
 
 // Take two arguments.
 // The first will be the action (i.e. "command", "option", etc.)
 
-var action = process.argv[2];
-var value = process.argv[3];
+var option = process.argv[2];
+var parameter = process.argv[3];
 
 // We will then create a switch-case statement (if-else would also work).
 // The switch-case will direct which function gets run.
-switch (action) {
-case "total":
-  total();
+function userInputs (option , parameter){
+switch (option) {
+case 'concert-this':
+  showConcertInfo(parameter);
   break;
 
-case "bands":
-  bands();
+case 'spotify-this-song':
+  showSongInfo(parameter);
   break;
 
-case "spotify":
-  spotify();
+case 'movie-this':
+  showMovieInfo(parameter);
   break;
 
-case "movie":
-  movie();
+case 'do-what-it-says':
+  info();
   break;
-
-  case "doit":
-  odit();
-  break;
+   
+  default:
+  console.log("Invalid option.Invalid Option. Please type any of the following options: \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says");
+  }
 }
 
-function total() {
 
 
 
