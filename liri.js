@@ -7,11 +7,14 @@ var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 var axios = require("axios");
 
+
 // Take two arguments.
 // The first will be the action (i.e. "command", "option", etc.)
 
 var option = process.argv[2];
 var parameter = process.argv[3];
+
+
 
 // We will then create a switch-case statement (if-else would also work).
 // The switch-case will direct which function gets run.
@@ -38,13 +41,17 @@ function userInputs(option, parameter) {
     }
 }
 
+userInputs(option, parameter);
+
 //======================================== BANDS IN TOWN FUNCTION =============================================
 function ConcertInfo(parameter) {
-    var queryUrl = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
-    request(queryUrl, function (error, response, body) {
-        // If successful 
-        if (!error && response.status === 200) {
-            var concerts = JSON.parse(body);
+    var queryUrl = "https://rest.bandsintown.com/artists/" + parameter + "/events?app_id=codingbootcamp";
+    console.log("ConcertInfo()", queryUrl);
+
+
+    axios.get(queryUrl)
+        .then(function (response) {
+            var concerts = response.data;
             for (var i = 0; i < concerts.length; i++) {
                 console.log("*****Event Info*****");
                 fs.appendFileSync("log.txt", "*****Event Info*****\n");
@@ -60,10 +67,14 @@ function ConcertInfo(parameter) {
                 fs.appendFileSync("log.txt", "*****************" + "\n");
 
             }
-        } else {
-            console.log("Error!!!!");
-        }
-    });
+        })
+        .catch(function (error) {
+            // handle error
+            console.log(error);
+        })
+        .finally(function () {
+            // always executed
+        });
 }
 
 //======================================== FUNCTION FOR MOVIE INFO & ONDB API =============================================
@@ -172,14 +183,3 @@ function Songinfo(parameter) {
         }
     );
 };
-
-//function for reading the random.txt file  
-function Info() {
-    fs.readFile('random.txt', 'utf8', function (err, data) {
-        if (err) {
-            return console.log(err);
-        }
-        var dataArr = data.split(',');
-        UserInputs(dataArr[0], dataArr[1]);
-    });
-}

@@ -1,0 +1,314 @@
+*****Event Info*****
+*****Event Info*****
+*****Event Info*****
+0
+Name of the Venue: KANSAS Classics
+Venue Location:Youngstown
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+1
+Name of the Venue: KANSAS Classics
+Venue Location:Blue Ash
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+2
+Name of the Venue: KANSAS Classics
+Venue Location:Charles Town
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+3
+Name of the Venue: KANSAS Classics
+Venue Location:Mashantucket
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+4
+Name of the Venue: KANSAS Classics
+Venue Location:Muskegon
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+5
+Name of the Venue: KANSAS Classics
+Venue Location:Bay City
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+6
+Name of the Venue: KANSAS Classics
+Venue Location:Pauma Valley
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+7
+Name of the Venue: KANSAS Classics
+Venue Location:Albuquerque
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+8
+Name of the Venue: KANSAS Classics
+Venue Location:El Paso
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+9
+Name of the Venue: KANSAS Classics
+Venue Location:Lubbock
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+10
+Name of the Venue: KANSAS Classics
+Venue Location:Springfield
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+11
+Name of the Venue: KANSAS Classics
+Venue Location:Lancaster
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+12
+Name of the Venue: KANSAS Classics
+Venue Location:Clearfield
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+13
+Name of the Venue: KANSAS Classics
+Venue Location:Binghamton
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+14
+Name of the Venue: KANSAS Classics
+Venue Location:Palmer
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+15
+Name of the Venue: KANSAS Classics
+Venue Location:Norman
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+16
+Name of the Venue: KANSAS Classics
+Venue Location:Thackerville
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+17
+Name of the Venue: KANSAS Classics
+Venue Location:Longview
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+18
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Spokane
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+19
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Santa Rosa
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+20
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Stockton
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+21
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Bakersfield
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+22
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Mesa
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+23
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Salt Lake City
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+24
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Cheyenne
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+25
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Tulsa
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+26
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Park City
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+27
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Topeka
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+28
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Omaha
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+29
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Wausau
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+30
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Minneapolis
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+31
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Champaign
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+32
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Waukegan
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+33
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Concord
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+34
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Albany
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+35
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Quebec City
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+36
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Montreal
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+37
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Rochester
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+38
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Erie
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+39
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Reading
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+40
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Durham
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+41
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Richmond
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+42
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Huntsville
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+43
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Corpus Christi
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+44
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Sugar Land
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+45
+Name of the Venue: Lefteroverture & Point of Know Return - One Night Only
+Venue Location:New York
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+46
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Savannah
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+47
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Jacksonville
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+48
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:The Villages
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+49
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:The Villages
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+50
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Fort Myers
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+51
+Name of the Venue: Point of Know Return Anniversary Tour
+Venue Location:Melbourne
+Date Of The Event:undefined
+*****************
