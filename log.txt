@@ -312,3 +312,859 @@ Name of the Venue: Point of Know Return Anniversary Tour
 Venue Location:Melbourne
 Date Of The Event:undefined
 *****************
+*****Event Info*****
+0
+Name of the Venue: End of the Road World Tour - Trondehim, Norway
+Venue Location:Trondehim
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+1
+Name of the Venue: End of the Road World Tour - Milan, Italy
+Venue Location:Milan
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+2
+Name of the Venue: End of the Road World Tour - Zurich, Switzerland
+Venue Location:Zürich
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+3
+Name of the Venue: End of the Road World Tour - Iffezheim, Germany
+Venue Location:Iffezheim
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+4
+Name of the Venue: End of the Road World Tour - Birmingham, England
+Venue Location:Birmingham
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+5
+Name of the Venue: End of the Road World Tour - London, England
+Venue Location:Lodon
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+6
+Name of the Venue: End of the Road World Tour - Manchester, England
+Venue Location:Manchester
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+7
+Name of the Venue: End of the Road World Tour - Newcastle, England
+Venue Location:Newcastle
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+8
+Name of the Venue: End of the Road World Tour - Glasgow, Scotland
+Venue Location:Glasgow
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+9
+Name of the Venue: End Of The Road World Tour - Sunrise, FL
+Venue Location:Sunrise
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+10
+Name of the Venue: End Of The Road World Tour - Charleston, SC
+Venue Location:Charleston
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+11
+Name of the Venue: End Of The Road World Tour - Charlotte, NC
+Venue Location:Charlotte
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+12
+Name of the Venue: End Of The Road World Tour - Bristow, VA
+Venue Location:Bristow
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+13
+Name of the Venue: End Of The Road World Tour - Virginia Beach, VA
+Venue Location:Virginia Beach
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+14
+Name of the Venue: End Of The Road World Tour - Newark, NJ
+Venue Location:Newark
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+15
+Name of the Venue: End Of The Road World Tour - Montreal, QC
+Venue Location:Montreal
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+16
+Name of the Venue: End Of The Road World Tour - Toronto, ON
+Venue Location:Toronto
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+17
+Name of the Venue: End Of The Road World Tour - Brooklyn, NY
+Venue Location:Brooklyn
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+18
+Name of the Venue: End Of The Road World Tour - Hershey, PA
+Venue Location:Hershey
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+19
+Name of the Venue: End Of The Road World Tour - Darien Center, NY
+Venue Location:Darien Center
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+20
+Name of the Venue: End Of The Road World Tour - Saratoga Springs, NY
+Venue Location:Saratoga Springs
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+21
+Name of the Venue: End Of The Road World Tour - Syracuse, NY
+Venue Location:Syracuse
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+22
+Name of the Venue: End Of The Road World Tour - Cincinnati, OH
+Venue Location:Cincinnati
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+23
+Name of the Venue: End Of The Road World Tour - Indianapolis, IN
+Venue Location:Indianapolis
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+24
+Name of the Venue: End Of The Road World Tour - St. Louis, MO
+Venue Location:Saint Francisville
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+25
+Name of the Venue: End Of The Road World Tour - Des Moines, IA
+Venue Location:Des Moines
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+26
+Name of the Venue: End Of The Road World Tour - Little Rock, AR
+Venue Location:North Little Rock
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+27
+Name of the Venue: End Of The Road World Tour - Bossier City, LA
+Venue Location:Bossier City
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+28
+Name of the Venue: End Of The Road World Tour - San Antonio, TX
+Venue Location:San Antonio
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+29
+Name of the Venue: End Of The Road World Tour - Houston, TX
+Venue Location:Houston
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+30
+Name of the Venue: End Of The Road World Tour - Albuquerque, NM
+Venue Location:Albuquerque
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+31
+Name of the Venue: End Of The Road World Tour - Denver, CO
+Venue Location:Denver
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+32
+Name of the Venue: End Of The Road World Tour - Salt Lake City, UT
+Venue Location:Salt Lake City
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+33
+Name of the Venue: End Of The Road World Tour - Oakland, CA
+Venue Location:Oakland
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+34
+Name of the Venue: End of the Road World Tour - Los Angeles, CA
+Venue Location:Los Angeles
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+35
+Name of the Venue: End of the Road World Tour - Perth, Australia
+Venue Location:Perth
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+36
+Name of the Venue: End of the Road World Tour - Adelaide, Australia
+Venue Location:Adelaide
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+37
+Name of the Venue: End of the Road World Tour - Melbourne, Australia
+Venue Location:Melbourne
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+38
+Name of the Venue: End of the Road World Tour - Melbourne, Australia
+Venue Location:Melbourne
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+39
+Name of the Venue: End of the Road World Tour - Newcastle, Australia
+Venue Location:Newcastle
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+40
+Name of the Venue: End of the Road World Tour - Sydney, Australia
+Venue Location:Sydney Olympic Park
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+41
+Name of the Venue: End of the Road World Tour - Brisbane, Australia
+Venue Location:Brisbane
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+42
+Name of the Venue: End of the Road World Tour - Auckland, New Zealand
+Venue Location:Auckland
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+43
+Name of the Venue: ゼビオアリーナ仙台
+Venue Location:仙台市
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+44
+Name of the Venue: 東京ドーム
+Venue Location:文京区
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+45
+Name of the Venue: 盛岡タカヤアリーナ（盛岡市総合アリーナ）
+Venue Location:盛岡市
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+46
+Name of the Venue: 京セラドーム大阪
+Venue Location:大阪市
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+47
+Name of the Venue: Nagoya Aichiken Gymnasium
+Venue Location:Nagoya
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+0
+Name of the Venue: End of the Road World Tour - Trondehim, Norway
+Venue Location:Trondehim
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+1
+Name of the Venue: End of the Road World Tour - Milan, Italy
+Venue Location:Milan
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+2
+Name of the Venue: End of the Road World Tour - Zurich, Switzerland
+Venue Location:Zürich
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+3
+Name of the Venue: End of the Road World Tour - Iffezheim, Germany
+Venue Location:Iffezheim
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+4
+Name of the Venue: End of the Road World Tour - Birmingham, England
+Venue Location:Birmingham
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+5
+Name of the Venue: End of the Road World Tour - London, England
+Venue Location:Lodon
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+6
+Name of the Venue: End of the Road World Tour - Manchester, England
+Venue Location:Manchester
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+7
+Name of the Venue: End of the Road World Tour - Newcastle, England
+Venue Location:Newcastle
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+8
+Name of the Venue: End of the Road World Tour - Glasgow, Scotland
+Venue Location:Glasgow
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+9
+Name of the Venue: End Of The Road World Tour - Sunrise, FL
+Venue Location:Sunrise
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+10
+Name of the Venue: End Of The Road World Tour - Charleston, SC
+Venue Location:Charleston
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+11
+Name of the Venue: End Of The Road World Tour - Charlotte, NC
+Venue Location:Charlotte
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+12
+Name of the Venue: End Of The Road World Tour - Bristow, VA
+Venue Location:Bristow
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+13
+Name of the Venue: End Of The Road World Tour - Virginia Beach, VA
+Venue Location:Virginia Beach
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+14
+Name of the Venue: End Of The Road World Tour - Newark, NJ
+Venue Location:Newark
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+15
+Name of the Venue: End Of The Road World Tour - Montreal, QC
+Venue Location:Montreal
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+16
+Name of the Venue: End Of The Road World Tour - Toronto, ON
+Venue Location:Toronto
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+17
+Name of the Venue: End Of The Road World Tour - Brooklyn, NY
+Venue Location:Brooklyn
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+18
+Name of the Venue: End Of The Road World Tour - Hershey, PA
+Venue Location:Hershey
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+19
+Name of the Venue: End Of The Road World Tour - Darien Center, NY
+Venue Location:Darien Center
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+20
+Name of the Venue: End Of The Road World Tour - Saratoga Springs, NY
+Venue Location:Saratoga Springs
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+21
+Name of the Venue: End Of The Road World Tour - Syracuse, NY
+Venue Location:Syracuse
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+22
+Name of the Venue: End Of The Road World Tour - Cincinnati, OH
+Venue Location:Cincinnati
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+23
+Name of the Venue: End Of The Road World Tour - Indianapolis, IN
+Venue Location:Indianapolis
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+24
+Name of the Venue: End Of The Road World Tour - St. Louis, MO
+Venue Location:Saint Francisville
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+25
+Name of the Venue: End Of The Road World Tour - Des Moines, IA
+Venue Location:Des Moines
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+26
+Name of the Venue: End Of The Road World Tour - Little Rock, AR
+Venue Location:North Little Rock
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+27
+Name of the Venue: End Of The Road World Tour - Bossier City, LA
+Venue Location:Bossier City
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+28
+Name of the Venue: End Of The Road World Tour - San Antonio, TX
+Venue Location:San Antonio
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+29
+Name of the Venue: End Of The Road World Tour - Houston, TX
+Venue Location:Houston
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+30
+Name of the Venue: End Of The Road World Tour - Albuquerque, NM
+Venue Location:Albuquerque
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+31
+Name of the Venue: End Of The Road World Tour - Denver, CO
+Venue Location:Denver
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+32
+Name of the Venue: End Of The Road World Tour - Salt Lake City, UT
+Venue Location:Salt Lake City
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+33
+Name of the Venue: End Of The Road World Tour - Oakland, CA
+Venue Location:Oakland
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+34
+Name of the Venue: End of the Road World Tour - Los Angeles, CA
+Venue Location:Los Angeles
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+35
+Name of the Venue: End of the Road World Tour - Perth, Australia
+Venue Location:Perth
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+36
+Name of the Venue: End of the Road World Tour - Adelaide, Australia
+Venue Location:Adelaide
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+37
+Name of the Venue: End of the Road World Tour - Melbourne, Australia
+Venue Location:Melbourne
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+38
+Name of the Venue: End of the Road World Tour - Melbourne, Australia
+Venue Location:Melbourne
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+39
+Name of the Venue: End of the Road World Tour - Newcastle, Australia
+Venue Location:Newcastle
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+40
+Name of the Venue: End of the Road World Tour - Sydney, Australia
+Venue Location:Sydney Olympic Park
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+41
+Name of the Venue: End of the Road World Tour - Brisbane, Australia
+Venue Location:Brisbane
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+42
+Name of the Venue: End of the Road World Tour - Auckland, New Zealand
+Venue Location:Auckland
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+43
+Name of the Venue: ゼビオアリーナ仙台
+Venue Location:仙台市
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+44
+Name of the Venue: 東京ドーム
+Venue Location:文京区
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+45
+Name of the Venue: 盛岡タカヤアリーナ（盛岡市総合アリーナ）
+Venue Location:盛岡市
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+46
+Name of the Venue: 京セラドーム大阪
+Venue Location:大阪市
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+47
+Name of the Venue: Nagoya Aichiken Gymnasium
+Venue Location:Nagoya
+Date Of The Event:undefined
+*****************
+**********SONG INFO*********
+0
+song name: Summertime Magic
+preview song: https://p.scdn.co/mp3-preview/54b992f72944542c137df6bbb1080f6f76c9df67?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Summer Pack
+artist(s): Childish Gambino
+*****************************
+**********SONG INFO*********
+1
+song name: Norf Norf
+preview song: null
+album: Summertime '06
+artist(s): Vince Staples
+*****************************
+**********SONG INFO*********
+2
+song name: Summertime Sadness
+preview song: null
+album: Born To Die - The Paradise Edition
+artist(s): Lana Del Rey
+*****************************
+**********SONG INFO*********
+3
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/7ad6353a1b61457b2c45a1b30dde67826a7857f8?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Greatest Hits II
+artist(s): Kenny Chesney
+*****************************
+**********SONG INFO*********
+4
+song name: In the Summertime
+preview song: https://p.scdn.co/mp3-preview/ea8c3f26e654c14d732263d1503554863abc1ef6?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: In the Summertime
+artist(s): Mungo Jerry
+*****************************
+**********SONG INFO*********
+5
+song name: Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix / Radio Edit
+preview song: null
+album: Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)
+artist(s): Lana Del Rey
+*****************************
+**********SONG INFO*********
+6
+song name: Summertime Sadness
+preview song: null
+album: Born To Die (Bonus Track Version)
+artist(s): Lana Del Rey
+*****************************
+**********SONG INFO*********
+7
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/821a56bbf9010ab683b1e69e8faf6795c8ee56bd?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: The Road And The Radio
+artist(s): Kenny Chesney
+*****************************
+**********SONG INFO*********
+8
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/5ccf82437961f7f4def3ae3322fc1501226f36a3?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Homebase
+artist(s): DJ Jazzy Jeff & The Fresh Prince
+*****************************
+**********SONG INFO*********
+9
+song name: Summertime
+preview song: null
+album: Porgy And Bess
+artist(s): Louis Armstrong
+*****************************
+**********SONG INFO*********
+10
+song name: A Little More Summertime
+preview song: https://p.scdn.co/mp3-preview/b46ac4a1ad5f416475a500043ddd3bb2270728f7?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: They Don't Know
+artist(s): Jason Aldean
+*****************************
+**********SONG INFO*********
+11
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/2a76802af26c069b42f4ba7377ee254c33022fb4?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Summertime
+artist(s): Musqitone
+*****************************
+**********SONG INFO*********
+12
+song name: Summertime Blues
+preview song: null
+album: 12 Of His Biggest Hits
+artist(s): Eddie Cochran
+*****************************
+**********SONG INFO*********
+13
+song name: Summertime Blues
+preview song: https://p.scdn.co/mp3-preview/36fa36b36392202f52cc36f363bf453e1f58af2d?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: 16 Biggest Hits
+artist(s): Alan Jackson
+*****************************
+**********SONG INFO*********
+14
+song name: Summertime Gladness
+preview song: https://p.scdn.co/mp3-preview/aa0020fb8006367434b08ecda0a2366f0aca06bf?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Summertime Gladness
+artist(s): Dance Gavin Dance
+*****************************
+**********SONG INFO*********
+15
+song name: Summertime in That Cutlass
+preview song: https://p.scdn.co/mp3-preview/89c6af8b4b3abb0d9ce72101deaff1809235d9e3?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Crenshaw
+artist(s): Nipsey Hussle
+*****************************
+**********SONG INFO*********
+16
+song name: Summertime - Single Edit
+preview song: https://p.scdn.co/mp3-preview/cb75ee4897fc0b3b87899db590ed4014a74e5216?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: The Very Best Of D.J. Jazzy Jeff & The Fresh Prince
+artist(s): DJ Jazzy Jeff & The Fresh Prince
+*****************************
+**********SONG INFO*********
+17
+song name: The Wreck of the Edmund Fitzgerald
+preview song: https://p.scdn.co/mp3-preview/0ba5642161214b5a4e936b649bc7fd695ad9727f?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Summertime Dream
+artist(s): Gordon Lightfoot
+*****************************
+**********SONG INFO*********
+18
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/8f458a004f76c6d1d02c83f8279d15adf8ffdd03?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: New Blood
+artist(s): Yellow Claw
+*****************************
+**********SONG INFO*********
+19
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/66fda42f07b539bd4bb46747e07dd0ce631d0847?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Danger Days: The True Lives of the Fabulous Killjoys
+artist(s): My Chemical Romance
+*****************************
+**********SONG INFO*********
+0
+song name: Summertime Magic
+preview song: https://p.scdn.co/mp3-preview/54b992f72944542c137df6bbb1080f6f76c9df67?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Summer Pack
+artist(s): Childish Gambino
+*****************************
+**********SONG INFO*********
+1
+song name: Norf Norf
+preview song: null
+album: Summertime '06
+artist(s): Vince Staples
+*****************************
+**********SONG INFO*********
+2
+song name: Summertime Sadness
+preview song: null
+album: Born To Die - The Paradise Edition
+artist(s): Lana Del Rey
+*****************************
+**********SONG INFO*********
+3
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/7ad6353a1b61457b2c45a1b30dde67826a7857f8?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Greatest Hits II
+artist(s): Kenny Chesney
+*****************************
+**********SONG INFO*********
+4
+song name: In the Summertime
+preview song: https://p.scdn.co/mp3-preview/ea8c3f26e654c14d732263d1503554863abc1ef6?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: In the Summertime
+artist(s): Mungo Jerry
+*****************************
+**********SONG INFO*********
+5
+song name: Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix / Radio Edit
+preview song: null
+album: Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)
+artist(s): Lana Del Rey
+*****************************
+**********SONG INFO*********
+6
+song name: Summertime Sadness
+preview song: null
+album: Born To Die (Bonus Track Version)
+artist(s): Lana Del Rey
+*****************************
+**********SONG INFO*********
+7
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/821a56bbf9010ab683b1e69e8faf6795c8ee56bd?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: The Road And The Radio
+artist(s): Kenny Chesney
+*****************************
+**********SONG INFO*********
+8
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/5ccf82437961f7f4def3ae3322fc1501226f36a3?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Homebase
+artist(s): DJ Jazzy Jeff & The Fresh Prince
+*****************************
+**********SONG INFO*********
+9
+song name: Summertime
+preview song: null
+album: Porgy And Bess
+artist(s): Louis Armstrong
+*****************************
+**********SONG INFO*********
+10
+song name: A Little More Summertime
+preview song: https://p.scdn.co/mp3-preview/b46ac4a1ad5f416475a500043ddd3bb2270728f7?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: They Don't Know
+artist(s): Jason Aldean
+*****************************
+**********SONG INFO*********
+11
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/2a76802af26c069b42f4ba7377ee254c33022fb4?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Summertime
+artist(s): Musqitone
+*****************************
+**********SONG INFO*********
+12
+song name: Summertime Blues
+preview song: null
+album: 12 Of His Biggest Hits
+artist(s): Eddie Cochran
+*****************************
+**********SONG INFO*********
+13
+song name: Summertime Blues
+preview song: https://p.scdn.co/mp3-preview/36fa36b36392202f52cc36f363bf453e1f58af2d?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: 16 Biggest Hits
+artist(s): Alan Jackson
+*****************************
+**********SONG INFO*********
+14
+song name: Summertime Gladness
+preview song: https://p.scdn.co/mp3-preview/aa0020fb8006367434b08ecda0a2366f0aca06bf?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Summertime Gladness
+artist(s): Dance Gavin Dance
+*****************************
+**********SONG INFO*********
+15
+song name: Summertime in That Cutlass
+preview song: https://p.scdn.co/mp3-preview/89c6af8b4b3abb0d9ce72101deaff1809235d9e3?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Crenshaw
+artist(s): Nipsey Hussle
+*****************************
+**********SONG INFO*********
+16
+song name: Summertime - Single Edit
+preview song: https://p.scdn.co/mp3-preview/cb75ee4897fc0b3b87899db590ed4014a74e5216?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: The Very Best Of D.J. Jazzy Jeff & The Fresh Prince
+artist(s): DJ Jazzy Jeff & The Fresh Prince
+*****************************
+**********SONG INFO*********
+17
+song name: The Wreck of the Edmund Fitzgerald
+preview song: https://p.scdn.co/mp3-preview/0ba5642161214b5a4e936b649bc7fd695ad9727f?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Summertime Dream
+artist(s): Gordon Lightfoot
+*****************************
+**********SONG INFO*********
+18
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/8f458a004f76c6d1d02c83f8279d15adf8ffdd03?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: New Blood
+artist(s): Yellow Claw
+*****************************
+**********SONG INFO*********
+19
+song name: Summertime
+preview song: https://p.scdn.co/mp3-preview/66fda42f07b539bd4bb46747e07dd0ce631d0847?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Danger Days: The True Lives of the Fabulous Killjoys
+artist(s): My Chemical Romance
+*****************************
