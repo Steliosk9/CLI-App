@@ -1168,3 +1168,739 @@ preview song: https://p.scdn.co/mp3-preview/66fda42f07b539bd4bb46747e07dd0ce631d
 album: Danger Days: The True Lives of the Fabulous Killjoys
 artist(s): My Chemical Romance
 *****************************
+*****Event Info*****
+0
+Name of the Venue: End of the Road World Tour - Trondehim, Norway
+Venue Location:Trondehim
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+1
+Name of the Venue: End of the Road World Tour - Milan, Italy
+Venue Location:Milan
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+2
+Name of the Venue: End of the Road World Tour - Zurich, Switzerland
+Venue Location:Zürich
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+3
+Name of the Venue: End of the Road World Tour - Iffezheim, Germany
+Venue Location:Iffezheim
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+4
+Name of the Venue: End of the Road World Tour - Birmingham, England
+Venue Location:Birmingham
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+5
+Name of the Venue: End of the Road World Tour - London, England
+Venue Location:Lodon
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+6
+Name of the Venue: End of the Road World Tour - Manchester, England
+Venue Location:Manchester
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+7
+Name of the Venue: End of the Road World Tour - Newcastle, England
+Venue Location:Newcastle
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+8
+Name of the Venue: End of the Road World Tour - Glasgow, Scotland
+Venue Location:Glasgow
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+9
+Name of the Venue: End Of The Road World Tour - Sunrise, FL
+Venue Location:Sunrise
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+10
+Name of the Venue: End Of The Road World Tour - Charleston, SC
+Venue Location:Charleston
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+11
+Name of the Venue: End Of The Road World Tour - Charlotte, NC
+Venue Location:Charlotte
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+12
+Name of the Venue: End Of The Road World Tour - Bristow, VA
+Venue Location:Bristow
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+13
+Name of the Venue: End Of The Road World Tour - Virginia Beach, VA
+Venue Location:Virginia Beach
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+14
+Name of the Venue: End Of The Road World Tour - Newark, NJ
+Venue Location:Newark
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+15
+Name of the Venue: End Of The Road World Tour - Montreal, QC
+Venue Location:Montreal
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+16
+Name of the Venue: End Of The Road World Tour - Toronto, ON
+Venue Location:Toronto
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+17
+Name of the Venue: End Of The Road World Tour - Brooklyn, NY
+Venue Location:Brooklyn
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+18
+Name of the Venue: End Of The Road World Tour - Hershey, PA
+Venue Location:Hershey
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+19
+Name of the Venue: End Of The Road World Tour - Darien Center, NY
+Venue Location:Darien Center
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+20
+Name of the Venue: End Of The Road World Tour - Saratoga Springs, NY
+Venue Location:Saratoga Springs
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+21
+Name of the Venue: End Of The Road World Tour - Syracuse, NY
+Venue Location:Syracuse
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+22
+Name of the Venue: End Of The Road World Tour - Cincinnati, OH
+Venue Location:Cincinnati
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+23
+Name of the Venue: End Of The Road World Tour - Indianapolis, IN
+Venue Location:Indianapolis
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+24
+Name of the Venue: End Of The Road World Tour - St. Louis, MO
+Venue Location:Saint Francisville
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+25
+Name of the Venue: End Of The Road World Tour - Des Moines, IA
+Venue Location:Des Moines
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+26
+Name of the Venue: End Of The Road World Tour - Little Rock, AR
+Venue Location:North Little Rock
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+27
+Name of the Venue: End Of The Road World Tour - Bossier City, LA
+Venue Location:Bossier City
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+28
+Name of the Venue: End Of The Road World Tour - San Antonio, TX
+Venue Location:San Antonio
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+29
+Name of the Venue: End Of The Road World Tour - Houston, TX
+Venue Location:Houston
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+30
+Name of the Venue: End Of The Road World Tour - Albuquerque, NM
+Venue Location:Albuquerque
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+31
+Name of the Venue: End Of The Road World Tour - Denver, CO
+Venue Location:Denver
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+32
+Name of the Venue: End Of The Road World Tour - Salt Lake City, UT
+Venue Location:Salt Lake City
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+33
+Name of the Venue: End Of The Road World Tour - Oakland, CA
+Venue Location:Oakland
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+34
+Name of the Venue: End of the Road World Tour - Los Angeles, CA
+Venue Location:Los Angeles
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+35
+Name of the Venue: End of the Road World Tour - Perth, Australia
+Venue Location:Perth
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+36
+Name of the Venue: End of the Road World Tour - Adelaide, Australia
+Venue Location:Adelaide
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+37
+Name of the Venue: End of the Road World Tour - Melbourne, Australia
+Venue Location:Melbourne
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+38
+Name of the Venue: End of the Road World Tour - Melbourne, Australia
+Venue Location:Melbourne
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+39
+Name of the Venue: End of the Road World Tour - Newcastle, Australia
+Venue Location:Newcastle
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+40
+Name of the Venue: End of the Road World Tour - Sydney, Australia
+Venue Location:Sydney Olympic Park
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+41
+Name of the Venue: End of the Road World Tour - Brisbane, Australia
+Venue Location:Brisbane
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+42
+Name of the Venue: End of the Road World Tour - Auckland, New Zealand
+Venue Location:Auckland
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+43
+Name of the Venue: ゼビオアリーナ仙台
+Venue Location:仙台市
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+44
+Name of the Venue: 東京ドーム
+Venue Location:文京区
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+45
+Name of the Venue: 盛岡タカヤアリーナ（盛岡市総合アリーナ）
+Venue Location:盛岡市
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+46
+Name of the Venue: 京セラドーム大阪
+Venue Location:大阪市
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+47
+Name of the Venue: Nagoya Aichiken Gymnasium
+Venue Location:Nagoya
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+0
+Name of the Venue: End of the Road World Tour - Trondehim, Norway
+Venue Location:Trondehim
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+1
+Name of the Venue: End of the Road World Tour - Milan, Italy
+Venue Location:Milan
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+2
+Name of the Venue: End of the Road World Tour - Zurich, Switzerland
+Venue Location:Zürich
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+3
+Name of the Venue: End of the Road World Tour - Iffezheim, Germany
+Venue Location:Iffezheim
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+4
+Name of the Venue: End of the Road World Tour - Birmingham, England
+Venue Location:Birmingham
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+5
+Name of the Venue: End of the Road World Tour - London, England
+Venue Location:Lodon
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+6
+Name of the Venue: End of the Road World Tour - Manchester, England
+Venue Location:Manchester
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+7
+Name of the Venue: End of the Road World Tour - Newcastle, England
+Venue Location:Newcastle
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+8
+Name of the Venue: End of the Road World Tour - Glasgow, Scotland
+Venue Location:Glasgow
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+9
+Name of the Venue: End Of The Road World Tour - Sunrise, FL
+Venue Location:Sunrise
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+10
+Name of the Venue: End Of The Road World Tour - Charleston, SC
+Venue Location:Charleston
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+11
+Name of the Venue: End Of The Road World Tour - Charlotte, NC
+Venue Location:Charlotte
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+12
+Name of the Venue: End Of The Road World Tour - Bristow, VA
+Venue Location:Bristow
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+13
+Name of the Venue: End Of The Road World Tour - Virginia Beach, VA
+Venue Location:Virginia Beach
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+14
+Name of the Venue: End Of The Road World Tour - Newark, NJ
+Venue Location:Newark
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+15
+Name of the Venue: End Of The Road World Tour - Montreal, QC
+Venue Location:Montreal
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+16
+Name of the Venue: End Of The Road World Tour - Toronto, ON
+Venue Location:Toronto
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+17
+Name of the Venue: End Of The Road World Tour - Brooklyn, NY
+Venue Location:Brooklyn
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+18
+Name of the Venue: End Of The Road World Tour - Hershey, PA
+Venue Location:Hershey
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+19
+Name of the Venue: End Of The Road World Tour - Darien Center, NY
+Venue Location:Darien Center
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+20
+Name of the Venue: End Of The Road World Tour - Saratoga Springs, NY
+Venue Location:Saratoga Springs
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+21
+Name of the Venue: End Of The Road World Tour - Syracuse, NY
+Venue Location:Syracuse
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+22
+Name of the Venue: End Of The Road World Tour - Cincinnati, OH
+Venue Location:Cincinnati
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+23
+Name of the Venue: End Of The Road World Tour - Indianapolis, IN
+Venue Location:Indianapolis
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+24
+Name of the Venue: End Of The Road World Tour - St. Louis, MO
+Venue Location:Saint Francisville
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+25
+Name of the Venue: End Of The Road World Tour - Des Moines, IA
+Venue Location:Des Moines
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+26
+Name of the Venue: End Of The Road World Tour - Little Rock, AR
+Venue Location:North Little Rock
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+27
+Name of the Venue: End Of The Road World Tour - Bossier City, LA
+Venue Location:Bossier City
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+28
+Name of the Venue: End Of The Road World Tour - San Antonio, TX
+Venue Location:San Antonio
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+29
+Name of the Venue: End Of The Road World Tour - Houston, TX
+Venue Location:Houston
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+30
+Name of the Venue: End Of The Road World Tour - Albuquerque, NM
+Venue Location:Albuquerque
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+31
+Name of the Venue: End Of The Road World Tour - Denver, CO
+Venue Location:Denver
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+32
+Name of the Venue: End Of The Road World Tour - Salt Lake City, UT
+Venue Location:Salt Lake City
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+33
+Name of the Venue: End Of The Road World Tour - Oakland, CA
+Venue Location:Oakland
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+34
+Name of the Venue: End of the Road World Tour - Los Angeles, CA
+Venue Location:Los Angeles
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+35
+Name of the Venue: End of the Road World Tour - Perth, Australia
+Venue Location:Perth
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+36
+Name of the Venue: End of the Road World Tour - Adelaide, Australia
+Venue Location:Adelaide
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+37
+Name of the Venue: End of the Road World Tour - Melbourne, Australia
+Venue Location:Melbourne
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+38
+Name of the Venue: End of the Road World Tour - Melbourne, Australia
+Venue Location:Melbourne
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+39
+Name of the Venue: End of the Road World Tour - Newcastle, Australia
+Venue Location:Newcastle
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+40
+Name of the Venue: End of the Road World Tour - Sydney, Australia
+Venue Location:Sydney Olympic Park
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+41
+Name of the Venue: End of the Road World Tour - Brisbane, Australia
+Venue Location:Brisbane
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+42
+Name of the Venue: End of the Road World Tour - Auckland, New Zealand
+Venue Location:Auckland
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+43
+Name of the Venue: ゼビオアリーナ仙台
+Venue Location:仙台市
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+44
+Name of the Venue: 東京ドーム
+Venue Location:文京区
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+45
+Name of the Venue: 盛岡タカヤアリーナ（盛岡市総合アリーナ）
+Venue Location:盛岡市
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+46
+Name of the Venue: 京セラドーム大阪
+Venue Location:大阪市
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+47
+Name of the Venue: Nagoya Aichiken Gymnasium
+Venue Location:Nagoya
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+0
+Name of the Venue: The Junk Bar's Skukum Lounge
+Venue Location:Ashgrove
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+1
+Name of the Venue: The Junk Bar's Skukum Lounge
+Venue Location:Ashgrove
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+2
+Name of the Venue: The Junk Bar's Skukum Lounge
+Venue Location:Ashgrove
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+3
+Name of the Venue: The Junk Bar's Skukum Lounge
+Venue Location:Ashgrove
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+0
+Name of the Venue: The Junk Bar's Skukum Lounge
+Venue Location:Ashgrove
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+1
+Name of the Venue: The Junk Bar's Skukum Lounge
+Venue Location:Ashgrove
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+2
+Name of the Venue: The Junk Bar's Skukum Lounge
+Venue Location:Ashgrove
+Date Of The Event:undefined
+*****************
+*****Event Info*****
+3
+Name of the Venue: The Junk Bar's Skukum Lounge
+Venue Location:Ashgrove
+Date Of The Event:undefined
+*****************
+Title:Batman
+Year:1989
+imbd:7.6
+Rotten Tomatoes:[object Object]
+country:USA, UK
+Language:English, French, Spanish
+Plot:Gotham City. Crime boss Carl Grissom (Jack Palance) effectively runs the town but there's a new crime fighter in town - Batman (Michael Keaton). Grissom's right-hand man is Jack Napier (Jack Nicholson), a brutal man who is not entirely sane... After falling out between the two Grissom has Napier set up with the Police and Napier falls to his apparent death in a vat of chemicals. However, he soon reappears as The Joker and starts a reign of terror in Gotham City. Meanwhile, reporter Vicki Vale (Kim Basinger) is in the city to do an article on Batman. She soon starts a relationship with Batman's everyday persona, billionaire Bruce Wayne.
+Actors:Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+Title:Batman
+Year:1989
+imbd:7.6
+Rotten Tomatoes:[object Object]
+country:USA, UK
+Language:English, French, Spanish
+Plot:Gotham City. Crime boss Carl Grissom (Jack Palance) effectively runs the town but there's a new crime fighter in town - Batman (Michael Keaton). Grissom's right-hand man is Jack Napier (Jack Nicholson), a brutal man who is not entirely sane... After falling out between the two Grissom has Napier set up with the Police and Napier falls to his apparent death in a vat of chemicals. However, he soon reappears as The Joker and starts a reign of terror in Gotham City. Meanwhile, reporter Vicki Vale (Kim Basinger) is in the city to do an article on Batman. She soon starts a relationship with Batman's everyday persona, billionaire Bruce Wayne.
+Actors:Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+Title:Batman
+Year:1989
+imbd:7.6
+Rotten Tomatoes:[object Object]
+country:USA, UK
+Language:English, French, Spanish
+Plot:Gotham City. Crime boss Carl Grissom (Jack Palance) effectively runs the town but there's a new crime fighter in town - Batman (Michael Keaton). Grissom's right-hand man is Jack Napier (Jack Nicholson), a brutal man who is not entirely sane... After falling out between the two Grissom has Napier set up with the Police and Napier falls to his apparent death in a vat of chemicals. However, he soon reappears as The Joker and starts a reign of terror in Gotham City. Meanwhile, reporter Vicki Vale (Kim Basinger) is in the city to do an article on Batman. She soon starts a relationship with Batman's everyday persona, billionaire Bruce Wayne.
+Cast:Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+Title:Batman
+Year:1989
+imbd:7.6
+Rotten Tomatoes:[object Object]
+country:USA, UK
+Language:English, French, Spanish
+Plot:Gotham City. Crime boss Carl Grissom (Jack Palance) effectively runs the town but there's a new crime fighter in town - Batman (Michael Keaton). Grissom's right-hand man is Jack Napier (Jack Nicholson), a brutal man who is not entirely sane... After falling out between the two Grissom has Napier set up with the Police and Napier falls to his apparent death in a vat of chemicals. However, he soon reappears as The Joker and starts a reign of terror in Gotham City. Meanwhile, reporter Vicki Vale (Kim Basinger) is in the city to do an article on Batman. She soon starts a relationship with Batman's everyday persona, billionaire Bruce Wayne.
+Cast:Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+Title:Batman
+Year:1989
+imbd:7.6
+Rotten Tomatoes:[object Object]
+country:USA, UK
+Language:English, French, Spanish
+Plot:Gotham City. Crime boss Carl Grissom (Jack Palance) effectively runs the town but there's a new crime fighter in town - Batman (Michael Keaton). Grissom's right-hand man is Jack Napier (Jack Nicholson), a brutal man who is not entirely sane... After falling out between the two Grissom has Napier set up with the Police and Napier falls to his apparent death in a vat of chemicals. However, he soon reappears as The Joker and starts a reign of terror in Gotham City. Meanwhile, reporter Vicki Vale (Kim Basinger) is in the city to do an article on Batman. She soon starts a relationship with Batman's everyday persona, billionaire Bruce Wayne.
+Cast:Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+Title:Batman
+Year:1989
+imbd:7.6
+Rotten Tomatoes:[object Object]
+country:USA, UK
+Language:English, French, Spanish
+Plot:Gotham City. Crime boss Carl Grissom (Jack Palance) effectively runs the town but there's a new crime fighter in town - Batman (Michael Keaton). Grissom's right-hand man is Jack Napier (Jack Nicholson), a brutal man who is not entirely sane... After falling out between the two Grissom has Napier set up with the Police and Napier falls to his apparent death in a vat of chemicals. However, he soon reappears as The Joker and starts a reign of terror in Gotham City. Meanwhile, reporter Vicki Vale (Kim Basinger) is in the city to do an article on Batman. She soon starts a relationship with Batman's everyday persona, billionaire Bruce Wayne.
+Cast:Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+Title:Superman
+Year:1978
+imbd:7.4
+Rotten Tomatoes:[object Object]
+country:USA, UK, Canada, Switzerland
+Language:English
+Plot:Just before the destruction of the planet Krypton, scientist Jor-El sends his infant son Kal-El on a spaceship to Earth. Raised by kindly farmers Jonathan and Martha Kent, young Clark discovers the source of his superhuman powers and moves to Metropolis to fight evil. As Superman, he battles the villainous Lex Luthor, while, as novice reporter Clark Kent, he attempts to woo co-worker Lois Lane
+Cast:Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+Title:Superman
+Year:1978
+imbd:7.4
+Rotten Tomatoes:[object Object]
+country:USA, UK, Canada, Switzerland
+Language:English
+Plot:Just before the destruction of the planet Krypton, scientist Jor-El sends his infant son Kal-El on a spaceship to Earth. Raised by kindly farmers Jonathan and Martha Kent, young Clark discovers the source of his superhuman powers and moves to Metropolis to fight evil. As Superman, he battles the villainous Lex Luthor, while, as novice reporter Clark Kent, he attempts to woo co-worker Lois Lane
+Cast:Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+Title:Superman
+Year:1978
+imbd:7.4
+Rotten Tomatoes:[object Object]
+country:USA, UK, Canada, Switzerland
+Language:English
+Plot:Just before the destruction of the planet Krypton, scientist Jor-El sends his infant son Kal-El on a spaceship to Earth. Raised by kindly farmers Jonathan and Martha Kent, young Clark discovers the source of his superhuman powers and moves to Metropolis to fight evil. As Superman, he battles the villainous Lex Luthor, while, as novice reporter Clark Kent, he attempts to woo co-worker Lois Lane
+Cast:Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+Title:Superman
+Year:1978
+imbd:7.4
+Rotten Tomatoes:[object Object]
+country:USA, UK, Canada, Switzerland
+Language:English
+Plot:Just before the destruction of the planet Krypton, scientist Jor-El sends his infant son Kal-El on a spaceship to Earth. Raised by kindly farmers Jonathan and Martha Kent, young Clark discovers the source of his superhuman powers and moves to Metropolis to fight evil. As Superman, he battles the villainous Lex Luthor, while, as novice reporter Clark Kent, he attempts to woo co-worker Lois Lane
+Cast:Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+Title:Superman
+Year:1978
+imbd:7.4
+Rotten Tomatoes:[object Object]
+country:USA, UK, Canada, Switzerland
+Language:English
+Plot:Just before the destruction of the planet Krypton, scientist Jor-El sends his infant son Kal-El on a spaceship to Earth. Raised by kindly farmers Jonathan and Martha Kent, young Clark discovers the source of his superhuman powers and moves to Metropolis to fight evil. As Superman, he battles the villainous Lex Luthor, while, as novice reporter Clark Kent, he attempts to woo co-worker Lois Lane
+Cast:Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+Title:Superman
+Year:1978
+imbd:7.4
+Rotten Tomatoes:[object Object]
+country:USA, UK, Canada, Switzerland
+Language:English
+Plot:Just before the destruction of the planet Krypton, scientist Jor-El sends his infant son Kal-El on a spaceship to Earth. Raised by kindly farmers Jonathan and Martha Kent, young Clark discovers the source of his superhuman powers and moves to Metropolis to fight evil. As Superman, he battles the villainous Lex Luthor, while, as novice reporter Clark Kent, he attempts to woo co-worker Lois Lane
+Cast:Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+Title:Iron Man
+Year:2008
+imbd:7.9
+Rotten Tomatoes:[object Object]
+country:USA
+Language:English, Persian, Urdu, Arabic, Hungarian
+Plot:Tony Stark. Genius, billionaire, playboy, philanthropist. Son of legendary inventor and weapons contractor Howard Stark. When Tony Stark is assigned to give a weapons presentation to an Iraqi unit led by Lt. Col. James Rhodes, he's given a ride on enemy lines. That ride ends badly when Stark's Humvee that he's riding in is attacked by enemy combatants. He survives - barely - with a chest full of shrapnel and a car battery attached to his heart. In order to survive he comes up with a way to miniaturize the battery and figures out that the battery can power something else. Thus Iron Man is born. He uses the primitive device to escape from the cave in Iraq. Once back home, he then begins work on perfecting the Iron Man suit. But the man who was put in charge of Stark Industries has plans of his own to take over Tony's technology for other matters.
+Cast:Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow
+Title:Iron Man
+Year:2008
+imbd:7.9
+Rotten Tomatoes:[object Object]
+country:USA
+Language:English, Persian, Urdu, Arabic, Hungarian
+Plot:Tony Stark. Genius, billionaire, playboy, philanthropist. Son of legendary inventor and weapons contractor Howard Stark. When Tony Stark is assigned to give a weapons presentation to an Iraqi unit led by Lt. Col. James Rhodes, he's given a ride on enemy lines. That ride ends badly when Stark's Humvee that he's riding in is attacked by enemy combatants. He survives - barely - with a chest full of shrapnel and a car battery attached to his heart. In order to survive he comes up with a way to miniaturize the battery and figures out that the battery can power something else. Thus Iron Man is born. He uses the primitive device to escape from the cave in Iraq. Once back home, he then begins work on perfecting the Iron Man suit. But the man who was put in charge of Stark Industries has plans of his own to take over Tony's technology for other matters.
+Cast:Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow

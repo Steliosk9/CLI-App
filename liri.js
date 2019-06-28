@@ -43,7 +43,7 @@ function userInputs(option, parameter) {
 
 userInputs(option, parameter);
 
-//======================================== BANDS IN TOWN FUNCTION =============================================
+//======================================== BANDS IN TOWN  =============================================
 function ConcertInfo(parameter) {
     var queryUrl = "https://rest.bandsintown.com/artists/" + parameter + "/events?app_id=codingbootcamp";
     console.log("ConcertInfo()", queryUrl);
@@ -92,7 +92,7 @@ function MovieInfo(parameter) {
 
     // Request with AXIOS
 
-    var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&plot=full&apikey=46375a92";
+    var queryUrl = "http://www.omdbapi.com/?t=" + parameter + "&y=&plot=full&apikey=46375a92";
 
 
     // This line is just to help us debug against the actual URL.
@@ -100,22 +100,23 @@ function MovieInfo(parameter) {
 
     axios.get(queryUrl).then(
         function (response) {
-            console.log("Release Year: " + response.data.Title);
+            console.log("***************");
+            console.log("Title: " + response.data.Title);
             fs.appendFileSync("log.txt", "Title:" + response.data.Title + "\n");
             console.log("Release Year: " + response.data.Year);
             fs.appendFileSync("log.txt", "Year:" + response.data.Year + "\n");
-            console.log("Release Year: " + response.data.imdbRating);
+            console.log("Imdb Rating: " + response.data.imdbRating);
             fs.appendFileSync("log.txt", "imbd:" + response.data.imdbRating + "\n");
-            console.log("Release Year: " + response.data.Ratings[1]);
+            console.log("Rotten Tomatoes: " + response.data.Ratings[1]);
             fs.appendFileSync("log.txt", "Rotten Tomatoes:" + response.data.Ratings[1] + "\n");
-            console.log("Release Year: " + response.data.Country);
+            console.log("Country: " + response.data.Country);
             fs.appendFileSync("log.txt", "country:" + response.data.Country + "\n");
-            console.log("Release Year: " + response.data.Language);
+            console.log("Language: " + response.data.Language);
             fs.appendFileSync("log.txt", "Language:" + response.data.Language + "\n");
-            console.log("Release Year: " + response.data.Plot);
+            console.log("Plot: " + response.data.Plot);
             fs.appendFileSync("log.txt", "Plot:" + response.data.Plot + "\n");
-            console.log("Release Year: " + response.data.Actors);
-            fs.appendFileSync("log.txt", "Actors:" + response.data.Actors + "\n");
+            console.log("Cast: " + response.data.Actors);
+            fs.appendFileSync("log.txt", "Cast:" + response.data.Actors + "\n");
         })
 
         .catch(function (error) {
@@ -153,8 +154,6 @@ function MovieInfo(parameter) {
           return;
         }
        
-  
-      
 
       var songs = data.tracks.items;
 
