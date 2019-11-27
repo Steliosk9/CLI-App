@@ -14,7 +14,7 @@ var axios = require("axios");
 var option = process.argv[2];
 var parameter = process.argv[3];
 
-userInputs(option, parameter);
+// userInputs(option, parameter);
 
 // We will then create a switch-case statement (if-else would also work).
 // The switch-case will direct which function gets run.
@@ -107,8 +107,8 @@ function MovieInfo(parameter) {
             fs.appendFileSync("log.txt", "Year:" + response.data.Year + "\n");
             console.log("Imdb Rating: " + response.data.imdbRating);
             fs.appendFileSync("log.txt", "imbd:" + response.data.imdbRating + "\n");
-            console.log("Rotten Tomatoes: " + response.data.Ratings[1]);
-            fs.appendFileSync("log.txt", "Rotten Tomatoes:" + response.data.Ratings[1] + "\n");
+            console.log("Rotten Tomatoes: " + response.data.Ratings[1].Value);
+            fs.appendFileSync("log.txt", "Rotten Tomatoes:" + response.data.Ratings[1].Value + "\n");
             console.log("Country: " + response.data.Country);
             fs.appendFileSync("log.txt", "country:" + response.data.Country + "\n");
             console.log("Language: " + response.data.Language);
