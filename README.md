@@ -1,47 +1,40 @@
 # CLI-App
 
-## LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-liri-node-app
-LIRI is a Language Interpretation and Recognition Interface. Use LIRI to get your latest tweets, find out about a song, or a movie, or just choose a random action from your own random file.
-
-Installs
+ ## Installs
 The package.json lists dependent node packages, but for your convenvice, these are the ones to install.
 
-Twitter
+## Twitter
 npm install twitter
 
-Spotify
+## Spotify
 npm install spotify
 
-Request
+## Request
 npm install request
 
-FS
+## FS
 npm install fs
 
-Simple Node Logger
+## Simple Node Logger
 npm install simple-node-logger
 
-Get Started
+##Get Started
+
 Here's a quick rundom of the commands you can use in LIRI.
 
-Get Tweets
-Retrieves up to your latest 20 tweets:
-
-node liri.js my-tweets
-
-Get Song Info
+## Get Song Info
 Retrieves song information for a track:
 
 node liri.js spotify-this-song "American Girl"
 
-Get Movie Info
+## Get Movie Info
 Retrieves movie information for a movie:
 
 node liri.js movie-this "Star Wars"
 
-Get Random Info
+## Get Random Info
 Gets random text inside a file and does what it says:
 
 node liri.js do-what-it-says
