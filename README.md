@@ -8,33 +8,33 @@ The package.json lists dependent node packages, but for your convenvice, these a
 ### Twitter
 npm install twitter
 
-## Spotify
+### Spotify
 npm install spotify
 
-## Request
+### Request
 npm install request
 
-## FS
+### FS
 npm install fs
 
-## Simple Node Logger
+### Simple Node Logger
 npm install simple-node-logger
 
-##Get Started
+### Get Started
 
 Here's a quick rundom of the commands you can use in LIRI.
 
-## Get Song Info
+### Get Song Info
 Retrieves song information for a track:
 
 node liri.js spotify-this-song "American Girl"
 
-## Get Movie Info
+### Get Movie Info
 Retrieves movie information for a movie:
 
 node liri.js movie-this "Star Wars"
 
-## Get Random Info
+### Get Random Info
 Gets random text inside a file and does what it says:
 
 node liri.js do-what-it-says
