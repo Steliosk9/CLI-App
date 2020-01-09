@@ -2614,3 +2614,143 @@ preview song: null
 album: A Love Letter To You 4
 artist(s): Trippie Redd
 *****************************
+**********SONG INFO*********
+0
+song name: Why I Love You
+preview song: null
+album: Watch The Throne
+artist(s): JAY-Z
+*****************************
+**********SONG INFO*********
+1
+song name: Why I Love You
+preview song: null
+album: Watch The Throne
+artist(s): JAY-Z
+*****************************
+**********SONG INFO*********
+2
+song name: Why I Love You
+preview song: null
+album: Watch The Throne (Deluxe)
+artist(s): JAY-Z
+*****************************
+**********SONG INFO*********
+3
+song name: Heart Of The City (Ain't No Love)
+preview song: null
+album: The Blueprint (Explicit Version)
+artist(s): JAY-Z
+*****************************
+**********SONG INFO*********
+4
+song name: Why I Love You - Album Version (Edited)
+preview song: null
+album: Watch The Throne (Deluxe)
+artist(s): JAY-Z
+*****************************
+**********SONG INFO*********
+5
+song name: Why I Love You - Album Version (Edited)
+preview song: null
+album: Watch The Throne
+artist(s): JAY-Z
+*****************************
+**********SONG INFO*********
+6
+song name: Heart Of The City (Ain't No Love)
+preview song: null
+album: The Blueprint
+artist(s): JAY-Z
+*****************************
+**********SONG INFO*********
+7
+song name: Heart Of The City (Ain't No Love)
+preview song: null
+album: The Blueprint (Edited Version)
+artist(s): JAY-Z
+*****************************
+**********SONG INFO*********
+8
+song name: Why I Love You - Album Version (Edited)
+preview song: null
+album: Watch The Throne
+artist(s): JAY-Z
+*****************************
+**********SONG INFO*********
+9
+song name: Lose You To Love Me
+preview song: null
+album: Lose You To Love Me
+artist(s): Selena Gomez
+*****************************
+**********SONG INFO*********
+10
+song name: Ransom
+preview song: null
+album: We Love You Tecca
+artist(s): Lil Tecca
+*****************************
+**********SONG INFO*********
+11
+song name: Love Me
+preview song: null
+album: We Love You Tecca
+artist(s): Lil Tecca
+*****************************
+**********SONG INFO*********
+12
+song name: Truth Hurts
+preview song: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Cuz I Love You (Deluxe)
+artist(s): Lizzo
+*****************************
+**********SONG INFO*********
+13
+song name: i love you
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+14
+song name: Fuck Love (feat. Trippie Redd)
+preview song: https://p.scdn.co/mp3-preview/a6bbae399c7e05f8b3987c3e293e544690e796ce?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: 17
+artist(s): XXXTENTACION
+*****************************
+**********SONG INFO*********
+15
+song name: Higher Love
+preview song: https://p.scdn.co/mp3-preview/a74efdaa12f708673a14fdf67bfb6ec365d8ebf0?cid=9cf82d6364704ab89b76e2957ba2ca78
+album: Higher Love
+artist(s): Kygo
+*****************************
+**********SONG INFO*********
+16
+song name: Who Needs Love
+preview song: null
+album: A Love Letter To You 4
+artist(s): Trippie Redd
+*****************************
+**********SONG INFO*********
+17
+song name: LOVE. FEAT. ZACARI.
+preview song: null
+album: DAMN.
+artist(s): Kendrick Lamar
+*****************************
+**********SONG INFO*********
+18
+song name: Ransom (with Juice WRLD) - Remix
+preview song: null
+album: We Love You Tecca
+artist(s): Lil Tecca
+*****************************
+**********SONG INFO*********
+19
+song name: 6 Kiss
+preview song: null
+album: A Love Letter To You 4
+artist(s): Trippie Redd
+*****************************
