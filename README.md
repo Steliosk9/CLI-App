@@ -1,7 +1,5 @@
-# liri-node-app
-Week 10 Homework
 
-# LIRI Bot
+# LIRI-CLI 
 
 ### Overview
 
@@ -22,7 +20,6 @@ This app can take in one of the following commands:
      * Venue location
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-EXAMPLE: 
 ![Concert Example](/images/Concert-This-ScreenShot-01.png)
 
 
@@ -33,9 +30,6 @@ EXAMPLE:
      * A preview link of the song from Spotify
      * The album that the song is from
 
-   *If no song is provided then your program will default to "The Sign" by Ace of Base.*
-
-EXAMPLE: 
 ![Song Example](/images/Spotify-This-Song-ScreenShot-01-01.png)
 
 
@@ -50,9 +44,6 @@ EXAMPLE:
      * Plot of the movie.
      * Actors in the movie.
 
-   *If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'*
-
-EXAMPLE: 
 ![Movie Example](/images/Movie-This-ScreenShot-01.png)
 
 
